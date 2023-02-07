@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I'm a 2nd Year CS student, currently working on myself and learning/exploring the world of computer and technology.</h3>
-<img align="right" alt="busy writing code" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Heyya!+Aditya+here%2C;Welcome+to+my+Github+Profile...;+I'm+a+2nd+Year+CS+student%2C;currently+working+on+myself%2C;learning+%26+exploring+the+world+of;computer+and+technology!)](https://git.io/typing-svg)
+<img align="right" alt="busy writing code" width="400" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif"</img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi2053&label=Profile%20views&color=0e75b6&style=flat" alt="adi2053" /> </p>
 
