@@ -1,5 +1,4 @@
-<div size='20px' align="center"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 💗
-</div>
+<div size='20px' align="center"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 🚀 </div>
 <div align="center">
   <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
