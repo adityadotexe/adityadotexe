@@ -8,7 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi2053&label=Profile%20views&color=0e75b6&style=flat" alt="adi2053" /> </p>
 <img align="right" alt="busy in coding" width="350" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
-<p align="left"> <a href="https://twitter.com/pacman_exe" target="blank"><img src="https://img.shields.io/twitter/follow/pacman_exe?logo=twitter&style=for-the-badge" alt="pacman_exe" /></a> </p>
 
 - 📫 How to reach me **itsadisingh003@gmail.com**
 
