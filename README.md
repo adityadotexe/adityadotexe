@@ -1,8 +1,6 @@
 <div size='20px' align="center"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile 🚀 </div>
 <div align="center">
-  <a href="#">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="#"><img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"alt="snake" /></a>
 </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=39FF14&width=435&lines=I'm+a+third-year+computer+science+enthusiast;on+a+quest+to+continually+evolve%2C;happily+coding+my+way+through+life%2C;one+byte+at+a+time!" alt="Typing SVG" /></a>
 
