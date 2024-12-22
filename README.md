@@ -1,5 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=39FF14&width=435&lines=HHi! I'm Aditya.+Thank You for taking the time+to view my GitHub Profile 🚀" alt="Typing SVG" /></a>
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=18&pause=1000&color=39FF14&width=435&lines=Hi!+I'm+Aditya 😊;Thank+You+for+taking+the+time;to+view+my+profile 🚀..." alt="Typing SVG" /></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adi2053&label=Profile%20views&color=0e75b6&style=flat" alt="adi2053" /> </p>
 <img align="right" alt="busy in coding" width="350" src="https://d1ivubrj2a21dq.cloudfront.net/wp-content/uploads/2023/01/02152015/front-end-development.gif">
 
@@ -7,7 +8,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/adityasingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityasingh" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
